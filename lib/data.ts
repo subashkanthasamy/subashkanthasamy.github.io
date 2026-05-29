@@ -13,7 +13,7 @@ export const profile = {
     github: "https://github.com/subashkanthasamy",
     linkedin: "https://www.linkedin.com/in/subash-kanthasamy/",
     email: "subashktsmpi@gmail.com",
-    phone: "+91 7010373172",
+    phone: "+91 7010373171",
   },
 } as const;
 
